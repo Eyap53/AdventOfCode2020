@@ -1,4 +1,4 @@
-namespace AdventOfCode.Day_12_Core
+namespace AdventOfCode
 {
     using System;
 
